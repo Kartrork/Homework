@@ -7,3 +7,5 @@
 - Home Page
 
 - css style
+
+-git add .
